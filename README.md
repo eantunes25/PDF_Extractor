@@ -20,7 +20,7 @@ This Python program eliminates the need for repetitive manual review by automati
 
 ## Why This Matters
 
-As someone responsible for reviewing daily reports, I built this tool to eliminate hours of manual work while improving error detection reliability. It’s a practical example of how lightweight automation with Python can produce immediate operational value.
+As someone responsible for reviewing daily reports, I built this tool to reduce manual work while improving error detection reliability. It’s a practical example of how lightweight automation with Python can produce immediate operational value.
 
 ---
 
