@@ -10,11 +10,11 @@ This Python program eliminates the need for repetitive manual review by automati
 
 ## What It Does
 
-✅ Scans all PDF files in a specified folder  
-✅ Searches for predefined error phrases using regex  
-✅ Extracts relevant policy numbers (formatted like `ABC2500123`)  
-✅ Records the page number and matching keywords  
-✅ Outputs results into a structured Excel file
+- Scans all PDF files in a specified folder  
+- Searches for predefined error phrases using regex  
+- Extracts relevant policy numbers (formatted like `ABC2500123`)  
+- Records the page number and matching keywords  
+- Outputs results into a structured Excel file
 
 ---
 
