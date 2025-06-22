@@ -22,4 +22,28 @@ This Python program eliminates the need for repetitive manual review by automati
 
 As someone responsible for reviewing daily reports, I built this tool to reduce manual work while improving error detection reliability. It’s a practical example of how lightweight automation with Python can produce immediate operational value.
 
+---
+## Try It Yourself
 
+1. **Clone this repo** or download the files
+2. Place any PDFs you'd like to scan into a folder (e.g., `PDF_Files/`)
+3. Run the script (Jupyter Notebook or `python script.py`)
+4. An Excel file will be generated with any detected errors
+
+### Test It Now
+
+Use the included sample PDF:
+📄 [Download Report1.pdf](./Report1.pdf)
+
+It contains simulated records with:
+- Policy numbers like `XYZ2401234`
+- Embedded error messages like `POLICY NOT ADDED`, `DUPLICATE CARRIER POL#`, and more
+
+---
+
+##  Setup Instructions
+
+### Install Required Packages
+
+```bash
+pip install PyPDF2 pandas openpyxl
