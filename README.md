@@ -33,7 +33,7 @@ As someone responsible for reviewing daily reports, I built this tool to reduce 
 ### Test It Now
 
 Use the included sample PDF:
-📄 [Download Report1.pdf](./Report1.pdf)
+📄 [Download Report1.pdf](./PDF_Files/Report1.pdf)
 
 It contains simulated records with:
 - Policy numbers like `XYZ2401234`
